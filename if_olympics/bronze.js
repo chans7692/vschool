@@ -5,4 +5,6 @@ var person = {
 
 if (person.name[0] === "B" && person.age >= 18) {
   console.log(person.name + " is allowed to go to the movie")
+} else{
+  console.log(person.name + " is not allowed to go to the movie")
 }

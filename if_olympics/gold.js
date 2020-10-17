@@ -23,7 +23,7 @@ if (anyThing !== 'undefined') {
 var letter = 's'
 var num = 12
 
-if (letter.length < num) {
+if (letter.length > num) {
     console.log("true")
 } else {
     console.log("false")
