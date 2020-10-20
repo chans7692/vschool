@@ -14,37 +14,38 @@
 .full-length{
     background-color: #F5C6D6;
     height: 130px;
-    width: 730px;
+    width: 100;
+    border: 10px solid white;
 }
 
 .one-quarter{
     display: inline-block;
     background-color: #EE2E84;
     height: 130px;
-    width: 23%;
-    margin: 13px 13px 0px 0px;
+    width: 25%;
+    border: 10px solid white;
 }
 
 .one-half{
     display: inline-block;
     background-color: #85CFD8;
     height: 130px;
-    width: 48%;
-    margin: 13px 13px 0px 0px;
+    width: 50%;
+    border: 10px solid white;
 }
 
 .two-thirds{
     display: inline-block;
     background-color: #8CC63F;
     height: 130px;
-    width: 64%;
-    margin: 13px 13px 0px 0px;
+    width: 66.66%;
+    border: 10px solid white;
 }
 
 .one-third{
     display: inline-block;
     background-color: #E86D34;
     height: 130px;
-    width: 32%;
-    margin: 13px 13px 0px 0px;
+    width: 33.33%;
+    border: 10px solid white;
 }
